@@ -1,0 +1,2 @@
+Hello from an assync way of creating file
+This is another line to the asynchronous created file, here we go!!!
