@@ -5,7 +5,7 @@
 Thanl you for visiting this repo.
 This repository is only to keep a trac of my learing of node js. I begin with a serie of 3 long videos on youtube by Sangam Mukherjee, then i plan to read some books to strenghtening the theorical knowledge(and I'll update the README file as long as I make progress to the currculum.
 
-## sources and credit
+## sources and credits
 
 * [gitignore documentation](https://git-scm.com/docs/gitignore)
 * [express documentation](https://expressjs.com/fr/)
