@@ -3,6 +3,8 @@ const express = require("express");
 
 const connectToDB = require("./database/db");
 const authRoutes = require("./routes/auth-routes");
+const homeRoutes = require("./routes/home-routes");
+const adminRoutes = require("./routes/admin-routes");
 
 connectToDB();
 
@@ -10,10 +12,12 @@ const app = express();
 
 const PORT = process.env.PORT || 3000;
 
-// Middleware
+// Middlewares
 
 app.use(express.json());
+app.use("/", homeRoutes);
 app.use("/api/auth", authRoutes);
+app.use("/admin", adminRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server runing at port: ${PORT}`);
