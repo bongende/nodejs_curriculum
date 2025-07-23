@@ -15,3 +15,10 @@ This repository is only to keep a trac of my learing of node js. I begin with a 
 - [Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2 by Sangam Mukherjee](https://youtu.be/_f7h6xQXiLA?si=HIAAg8XRXf0xenMX)
 - [Node JS Full Course 2025 | PostgreSQL, Prisma, Nest JS, Bun, Hono, Prometheus, Grafana | Part 3 by Sangam Mukherjee](https://youtu.be/pa9xqOnorx0?si=bBkGYlv2qwBDEKGl)
 - [Ejs documentation](https://ejs.co)
+- [openssl homepage](https://www.openssl.org)
+- [opneSSl versions](https://openssl-library.org/source)
+- [render (for hosting)](https://render.com)
+- [mdn](https://render.com)
+- [socket.io](https://socket.io/docs/v4/client-initialization)
+- [graphQL](https://graphql.org)
+-
