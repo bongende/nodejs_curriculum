@@ -21,4 +21,7 @@ This repository is only to keep a trac of my learing of node js. I begin with a 
 - [mdn](https://render.com)
 - [socket.io](https://socket.io/docs/v4/client-initialization)
 - [graphQL](https://graphql.org)
--
+- [grapql-tag](https://www.npmjs.com/package/graphql-tag)
+- [apollo-server](https://www.apollographql.com/docs/apollo-server)
+- [shadcn ui](https://ui.shadcn.com/docs/installation)
+
