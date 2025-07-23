@@ -7,6 +7,7 @@ const homeRoutes = require("./routes/home-routes");
 const adminRoutes = require("./routes/admin-routes");
 const imageRoutes = require("./routes/image-routes");
 const uploadImageRoutes = require("./routes/image-routes");
+const fetchImageRoutes = require("./routes/image-routes");
 
 connectToDB();
 
@@ -22,6 +23,7 @@ app.use("/api/auth", authRoutes);
 app.use("/admin", adminRoutes);
 app.use("/image", imageRoutes);
 app.use("/api/image", uploadImageRoutes);
+app.use("/images", fetchImageRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server runing at port: ${PORT}`);
